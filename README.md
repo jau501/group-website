@@ -22,3 +22,6 @@ are caused by two trailing spaces at the end of a line.
     1. Section 1
     2. Section 2
 4. Philosophers carpentry
+
+![University of Leeds logo](./unileedslogo.png)  
+University of Leeds logo, copyright University of Leeds 2022.
