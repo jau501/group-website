@@ -15,7 +15,7 @@ are caused by two trailing spaces at the end of a line.
 
 [Carpentries website](https://carpentries.org)
 
-### Carpentries Lesson programs:
+### Carpentries Lesson programs
 1. Software carpentry
 2. Data carpentry
 3. Library carpentry
